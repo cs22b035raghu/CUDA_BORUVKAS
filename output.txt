@@ -1,0 +1,6 @@
+Graph loaded: 1048576 nodes, 4190208 edges
+Nodes: 1048576, Edges: 4190208
+CPU MST weight: 2806989831
+CPU time: 2455.8 ms
+GPU MST time: 5.51232 ms
+GPU MST weight: 2806989831
